@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PersonaLPr0xy</h1>
-<h3 align="center">Passionate Ethical Hacker & Frontend Developer</h3>
+<h3 align="center">Passionate Hacker & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackedbypr0xy&label=Profile%20views&color=0e75b6&style=flat" alt="hackedbypr0xy" /> </p>
 
