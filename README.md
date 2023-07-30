@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **SQL Injection**
 
-- 👯 I’m looking to collaborate on [my own X2 Software](https://t.me/CityOfCard)
-
 - 🤝 I’m looking for help with [my own Jcop](https://t.me/CityOfCard)
 
 - 👨‍💻 All of my projects are available at [https://t.me/CityOfCard](https://t.me/CityOfCard)
