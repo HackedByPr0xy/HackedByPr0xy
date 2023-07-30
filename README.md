@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm PersonaLPr0xy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e47tpjtaqvwlcqw11zo1vcjcwu3bm4s90u5tvbas0te&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackedbypr0xy&label=Profile%20views&color=0e75b6&style=flat" alt="hackedbypr0xy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackedbypr0xy" alt="hackedbypr0xy" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif?cid=ecf05e47tpjtaqvwlcqw11zo1vcjcwu3bm4s90u5tvbas0te&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [my own arqc gen](https://t.me/CityOfCard)
 
