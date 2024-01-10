@@ -25,8 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackedbypr0xy&show_icons=true&locale=en" alt="hackedbypr0xy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackedbypr0xy&" alt="hackedbypr0xy" /></p>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/HackedByPr0xy/HackedByPr0xy/output/snake.svg" alt="Snake animation" />
