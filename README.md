@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackedbypr0xy" alt="hackedbypr0xy" /></a> </p>
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1164314843147411486/1168944960448495656/TopTropAdmin.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFsZWMxcjl2MXFxaGY2aHgwdHA1dzUxZ3lzeTV5cWFlMjFzdmlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6SYCGsQkd1vj8Du6uF/giphy.gif"  />
+
 
 - 🔭 I’m currently working on [my own arqc gen](https://t.me/CityOfCard)
 
