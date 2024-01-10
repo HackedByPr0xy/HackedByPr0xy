@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PersonaLPr0xy</h1>
-<h3 align="center">Passionate Hacker & Developer</h3>
+<h3 align="center">Hacker & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackedbypr0xy&label=Profile%20views&color=0e75b6&style=flat" alt="hackedbypr0xy" /> </p>
 
@@ -8,17 +8,9 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFsZWMxcjl2MXFxaGY2aHgwdHA1dzUxZ3lzeTV5cWFlMjFzdmlsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6SYCGsQkd1vj8Du6uF/giphy.gif"  />
 
 
-- 🔭 I’m currently working on [my own arqc gen](https://t.me/CityOfCard)
+- 🔭 I’m currently working on BoostService On TOR
 
-- 🌱 I’m currently learning **SQL Injection**
-
-- 🤝 I’m looking for help with [my own Jcop](https://t.me/CityOfCard)
-
-- 👨‍💻 All of my projects are available at [https://t.me/CityOfCard](https://t.me/CityOfCard)
-
-- 📝 I regularly write articles on [https://telegra.ph/Linux-Výhody-a-Populární-Distribuce-07-22](https://telegra.ph/Linux-Výhody-a-Populární-Distribuce-07-22)
-
-- 📄 Know about my experiences [https://telegra.ph/Cesta-do-sv%C4%9Bta-Swipingu-Jak-funguje-a-co-pot%C5%99ebujete-v%C4%9Bd%C4%9Bt-07-22](https://telegra.ph/Cesta-do-sv%C4%9Bta-Swipingu-Jak-funguje-a-co-pot%C5%99ebujete-v%C4%9Bd%C4%9Bt-07-22)
+- 👨‍💻 All of my projects are available at [Telegram](https://t.me/Legend_Of_Pr0xyArmy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackedbypr0xy&show_icons=true&locale=en" alt="hackedbypr0xy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackedbypr0xy&" alt="hackedbypr0xy" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
